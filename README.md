@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Sciece and Machine Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Company
-- 📫 How to reach me how2ai4all@gmail
+- 📫 How to reach me how2ai4all@gmail.com
 
 <!---
 how2ai4all/how2ai4all is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
