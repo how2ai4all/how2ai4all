@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Boom.
 - 👀 I’m interested in Data Sciece and Machine Learning
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Scientist
+- 💞️ I’m looking to collaborate on Data Business. 
 - 📫 How to reach me how2ai4all@gmail.com
 
 <!---
