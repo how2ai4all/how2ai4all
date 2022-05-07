@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile
 
-- 👋 Hi, I’m Boom.
+- 👋 Hi, I’m Boom. I live in Thailand.
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on Data Business. 
