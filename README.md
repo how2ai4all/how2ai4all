@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile
 
-- 👋 Hi, I’m @how2ai4all
+- 👋 Hi, I’m Boom.
 - 👀 I’m interested in Data Sciece and Machine Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Scientist
