@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Data Business. 
 - 📫 How to reach me how2ai4all@gmail.com
 - 📫 How to reach me [Youtube](https://www.youtube.com/channel/UCSwp5Hdj73K9-RcXJQrWndA) (Thai Language)
-- 👋 How to reach me [Linkedin]([https://www.youtube.com/channel/UCSwp5Hdj73K9-RcXJQrWndA](https://www.linkedin.com/in/varanchai-yingkhamnueng-002027195/)) 
+- 👋 How to reach me [Likedin](https://www.linkedin.com/in/varanchai-yingkhamnueng-002027195/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=how2ai4all&show_icons=true)
 <!---
